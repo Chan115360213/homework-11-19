@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\homework 1119\\P30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B47A98-68AA-4538-AA7B-C6A13B37E772}|P30\\P30.vcxproj|C:\\Users\\User\\Desktop\\homework 1119\\P30\\P30\\P30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2B47A98-68AA-4538-AA7B-C6A13B37E772}|P30\\P30.vcxproj|solutionrelative:P30\\P30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P30.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework 1119\\P30\\P30\\P30.cpp",
+              "RelativeDocumentMoniker": "P30\\P30.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework 1119\\P30\\P30\\P30.cpp",
+              "RelativeToolTip": "P30\\P30.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T12:41:50.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
